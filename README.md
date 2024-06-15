@@ -14,8 +14,16 @@
 ### DEMO
 
 
+<tr>
 
+</td>
 
 ![Screenshot_15-6-2024_112110_chennakesavareddyprofile netlify app](https://github.com/KesavaAI/chenna-kesava-reddy-profile/assets/144814421/76ee618b-a0f8-476c-84f6-da6188747083)
 
+</td>
+<td>
+  
+![Screenshot_15-6-2024_13123_chennakesavareddyprofile netlify app](https://github.com/KesavaAI/chenna-kesava-reddy-profile/assets/144814421/3b377a37-ca22-440f-a1e4-7f29b9a3032a)
 
+</td>
+</tr>
